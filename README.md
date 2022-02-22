@@ -12,6 +12,7 @@ I'm currently developing code for telecomunication studies. My main projects are
 
 ## Languages/Tools
 <br/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="25" align="left"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" alt="pycharm" width="25" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="25" align="left"/>
@@ -34,5 +35,5 @@ I'm currently developing code for telecomunication studies. My main projects are
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" width="25">  christianfragoas@gmail.com
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="25"> [Linkedin](https://www.linkedin.com/in/cfragoas/)
 - <img src="https://cdn-icons-png.flaticon.com/512/49/49051.png" alt="resegate" width="25"> [ResearchGate](https://www.researchgate.net/profile/Christian-Rodrigues-2)
-- <img src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1645534563~hmac=7e48ff03723e5586736350300b92e31e" alt="twitter" width="25"> [Twitter](https://twitter.com/cfragoas)
+- <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" width="25"> [Twitter](https://twitter.com/cfragoas)
 - <img src="https://cdn-icons-png.flaticon.com/512/588/588258.png" width="25">  To play some games! ID CFragoas
