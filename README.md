@@ -4,7 +4,7 @@
 
 <br/>
 
-I work at Tv Globo and study for my PhD at PUC-RIo.
+I currently working for my PhD at PUC-RIo.
 I'm currently developing code for telecomunication studies. My main projects are:
 - 📡 [Satlink](https://github.com/cfragoas/SatLink) - A Python based application that runs specific satellite downlink calculations. It has a GUI and a Web App and can do a lot of cool specific satelite calculations.
 - 🗼 [Sama Simulator](https://github.com/cfragoas/Sama_simulator) An 5G physical layer simulation tool with a series of automations to simulate a RAN in ragard of different aspects. Its is beeing develop to suport my PhD thesis.
