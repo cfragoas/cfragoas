@@ -1,6 +1,6 @@
 # Christian Rodrigues
 ## Hi! I'm Christan!
-## I'm a PhD student and a coding enthusiast.
+## I'm a PhD in Telecommunications and a coding enthusiast.
 
 <br/>
 
