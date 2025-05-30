@@ -1,6 +1,6 @@
 # Christian Rodrigues
 ## Hi! I'm Christan!
-## Telecommunications Engineering Professor at Rio de Janeiro State University [UERJ] (http://www.eng.uerj.br/prof/385).
+## Telecommunications Engineering Professor at Rio de Janeiro State University [UERJ](http://www.eng.uerj.br/prof/385).
 
 <br/>
 
