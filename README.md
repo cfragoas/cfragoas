@@ -1,6 +1,6 @@
 # Christian Rodrigues
 ## Hi! I'm Christan!
-## I'm a PhD in Telecommunications and a coding enthusiast.
+## Telecommunications Engineering Professor at Rio de Janeiro State University [UERJ] (http://www.eng.uerj.br/prof/385).
 
 <br/>
 
